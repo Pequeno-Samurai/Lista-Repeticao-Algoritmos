@@ -1,4 +1,4 @@
-/*Desenvolver um algoritmo que leia a altura de 15 pessoas. Este programa dever·
+/*Desenvolver um algoritmo que leia a altura de 15 pessoas. Este programa dever√°
 calcular e mostrar:
 A menor altura do grupo;
 A maior altura do grupo.*/
