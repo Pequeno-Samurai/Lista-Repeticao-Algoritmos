@@ -1,6 +1,6 @@
-/*Implemente um programa que leia uma quantidade desconhecida de números e
-conte quantos deles estão nos seguintes intervalos: [0-25], [26-50], [51-75] e
-[76-100]. A entrada de dados deve terminar quando for lido um número negativo*/
+/*Implemente um programa que leia uma quantidade desconhecida de nÃºmeros e
+conte quantos deles estÃ£o nos seguintes intervalos: [0-25], [26-50], [51-75] e
+[76-100]. A entrada de dados deve terminar quando for lido um nÃºmero negativo*/
 #include <stdio.h>
 int main (){
 	int contador=0, n=9999, a=0, b=0, c=0, d=0, num;
