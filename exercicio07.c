@@ -1,5 +1,5 @@
-/*Implemente um programa que leia um valor inicial A e imprima a sequência de
-valores do cálculo de A! e o seu resultado. Ex: 5! = 5 4 3 2 1 = 120*/
+/*Implemente um programa que leia um valor inicial A e imprima a sequÃªncia de
+valores do cÃ¡lculo de A! e o seu resultado. Ex: 5! = 5 4 3 2 1 = 120*/
 #include <stdio.h>
 int main(){
 	int cont=1, a, result, b, n;
