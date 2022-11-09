@@ -1,6 +1,6 @@
-/*Implemente um programa que leia uma quantidade não determinada de números
-positivos. Calcule a quantidade de números pares e ímpares, a média de valores
-pares e a média geral dos números lidos. O número que encerra a leitura será zero.*/
+/*Implemente um programa que leia uma quantidade nÃ£o determinada de nÃºmeros
+positivos. Calcule a quantidade de nÃºmeros pares e Ã­mpares, a mÃ©dia de valores
+pares e a mÃ©dia geral dos nÃºmeros lidos. O nÃºmero que encerra a leitura serÃ¡ zero.*/
 #include <stdio.h>
 int main (){
 	int valor, par=0, somapar=0, impar=0, somaimpar=0;
