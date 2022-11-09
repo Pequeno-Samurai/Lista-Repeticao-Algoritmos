@@ -1,5 +1,5 @@
-/*Desenvolver um algoritmo que efetue a soma de todos os números ímpares que
-são múltiplos de três e que se encontram no conjunto dos números de 1 até 500*/
+/*Desenvolver um algoritmo que efetue a soma de todos os nÃºmeros Ã­mpares que
+sÃ£o mÃºltiplos de trÃªs e que se encontram no conjunto dos nÃºmeros de 1 atÃ© 500*/
 #include <stdio.h>
 int main (){
 	int n=500, contador=1, a=1, soma=0;
