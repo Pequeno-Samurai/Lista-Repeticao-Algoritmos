@@ -17,7 +17,8 @@ int main ()
 		{
 			result = x*mult;
 			printf("Tabuada de: %d\n", result);
-			mult++; }
+			mult++; 
+		}
 	}
 	return 0; 
 }
