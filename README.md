@@ -11,6 +11,7 @@ são múltiplos de três e que se encontram no conjunto dos números de 1 até 5
 calcular e mostrar:
 
 A menor altura do grupo;
+
 A maior altura do grupo.
 
 3. Implemente um programa que leia uma quantidade desconhecida de números e
